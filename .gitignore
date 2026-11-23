@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
